@@ -1,0 +1,14 @@
+cd ..
+cd ..
+git st
+cd ..
+cd audit_message/
+ll
+git st
+git st
+exit
+ll
+ls -la
+git st
+cat ~/.gitconfig 
+exit
